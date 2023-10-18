@@ -4,3 +4,8 @@
 ### Introduction
 
 * Some intro
+
+
+### Workflow
+
+* Add some description of the workflow and illustrations
